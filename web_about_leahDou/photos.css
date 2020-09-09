@@ -1,0 +1,21 @@
+#demo {
+    margin: 20px;
+    overflow:hidden;
+    width:97%;
+    height:683px;
+}
+#indemo {
+    float: left;
+    width: 800%;
+}
+#demo1 {
+    float: left;
+}
+img{
+    width:1024px;
+    height:683px ;
+}
+#demo2 {
+    float: left;
+    margin-left:10px;
+}

@@ -1,0 +1,74 @@
+*{
+    padding: 0px;/*去掉外边距*/
+    margin: 0px;/*去掉内边距*/
+}
+
+.nav{
+    background:url("top.jpg") center center  no-repeat;
+    background-size:100%;
+    padding-left: inherit;/*文字左边距*/
+}
+.nav .navItem {
+    color: white; /*文字颜色白色*/
+    text-align:center;
+    font-size:2vw  ;
+    font-family: "Segoe Script";
+
+}
+.nav .navItem1 {
+    margin-left: 3%;
+    margin-right:3%;
+ }
+.nav .navItem2 {
+    margin-left:18%;
+    margin-right: 3%;
+}
+.nav .navItem3 {
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover{
+    /*鼠标悬停样式*/
+    background: dimgrey;
+}
+a:active{
+    font-family: "04b08";
+    font-size: 3vw;
+}
+
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+a:link{
+    color: white;
+}
+.nav .space{
+    padding-bottom: 20%;
+}
+
+.b {
+    background:url("bottom.jpg") center center  no-repeat;
+    background-size:100%;
+}
+.b .space{
+    padding-bottom: 65%;
+}
+
+.di{
+    margin-top: 5px;
+    background: black;
+}
+
+.di {
+    color:white;
+    font-size: 2vw;
+    font-family: "Segoe Script";
+    text-align:center;
+
+}

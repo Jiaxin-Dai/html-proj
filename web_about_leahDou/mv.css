@@ -1,0 +1,38 @@
+.video{
+    position:relative;
+    font-family: "Segoe Script";
+    font-size: 2vw;
+    
+}
+.video .video1{
+    position: relative;
+    padding-left: 40%;
+    padding-bottom:2%;
+    padding-top: 2%;
+ }
+.video .video2{
+    position: relative;
+    padding-left: 10%;
+    padding-bottom: 2%;
+}
+.video .video3{
+    position: relative;
+    padding-left: 35%;
+    padding-bottom: 2%;
+}
+
+.video .md{
+    position: absolute;
+    top:15%;
+    left:20%;
+}
+.video .rr{
+    position: absolute;
+    top:50%;
+    right:20%;
+}
+.video .br{
+     position: absolute;
+     top:80%;
+     left:20%;
+ }

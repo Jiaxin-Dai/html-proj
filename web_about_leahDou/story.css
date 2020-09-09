@@ -1,0 +1,37 @@
+.p{
+    position: relative;
+    padding-bottom: 30%;
+    padding-top: 50%;
+
+}
+p{
+    line-height: 2vw;
+    font-family: 方正古隶简体;
+    font-size: 2vw;
+}
+.p .left{
+    position: absolute;
+    left: 1.6%;
+    top:10%;
+}
+
+.p .right{
+    position: absolute;
+    left:50%;
+    top:42%;
+}
+
+.p .img1{
+    position: absolute;
+   right:5%;
+    top:10%;
+}
+.p .img2{
+    position: absolute;
+    top:35%;
+}
+.p .img3{
+    position: absolute;
+    left:25%;
+    top:60%;
+}

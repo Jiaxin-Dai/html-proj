@@ -1,0 +1,50 @@
+
+.name{
+    font-family:"Segoe Script";
+    font-size:1.5vw;
+}
+.word{
+    position: relative;
+    margin: 3vw;
+    padding-bottom:50%;
+}
+.word1{
+    position: absolute;
+    float:left;
+    left:2%;
+    line-height: 3vw;
+    top:2%;
+}
+.word2{
+    position: absolute;
+    float:right;
+    left:70%;
+    line-height: 3vw;
+    top:2%;
+}
+img{
+    position: absolute;
+    float:right;
+    width:25%;
+    left:38%;
+    top:1%;
+}
+ul{
+    font-family: "Segoe Script";
+    position:absolute;
+    top:70%;
+    left:30%;
+    font-size: 1.8vw;
+}
+.s1{
+    left:10%
+}
+.s2{
+    left:35%
+}
+.s3{
+    left:55%
+}
+.s4{
+    left:75%
+}

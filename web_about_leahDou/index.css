@@ -1,0 +1,31 @@
+.img {
+    position:relative;
+    color:white;
+    padding-bottom: 65%;
+}
+
+
+.img .img1{
+    width: 30%;
+    height: 30%;
+    left: 60%;
+    top:10%;
+    position:absolute;
+    vertical-align : bottom;
+}
+.img .img2{
+    width: 30%;
+    height: 30%;
+    top:30%;
+    position:absolute;
+    left:34%;
+    vertical-align : bottom;
+}
+.img .img3{
+    width: 30%;
+    height: 30%;
+    left:8%;
+    top:50%;
+    position: absolute;
+    vertical-align : bottom;
+}
